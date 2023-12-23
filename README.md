@@ -8,4 +8,4 @@ Prints message field to console if exists.
 Sends a JSON response with the message "Data successfully received" and a status of "success.".
 
 To use this program: `go run .`
-I'll see localhost adress, just paste it to your browser url field
+You'll see localhost adress on console, just paste it to your browser url field
